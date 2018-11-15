@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/q141275/Form1.cs) (VB: [Form1.vb](./VB/q141275/Form1.vb))
+* [MyLayoutControl.cs](./CS/q141275/MyLayoutControl.cs) (VB: [MyLayoutControl.vb](./VB/q141275/MyLayoutControl.vb))
+* [Program.cs](./CS/q141275/Program.cs) (VB: [Program.vb](./VB/q141275/Program.vb))
+<!-- default file list end -->
 # OBSOLETE: How to register your own GroupObjectPainter in the LayoutControl.
 
 
